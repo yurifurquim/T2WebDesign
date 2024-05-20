@@ -20,7 +20,7 @@ header {
 }
 .logo {
     width: 63px;
-    height: 51px;
+    height: 51px; 
     border-radius: 100%;
     margin-left: 50px;
     border-radius: 50%;
@@ -62,7 +62,8 @@ li {
     align-items: center;
 }
 .content {
-    background-image:url(/.//assets/Rectangle20.svg);
+    background-color: rgba(255, 223, 136, 0.5);
+    box-shadow: 3px 10px 50px 35px rgba(0, 0, 0, 0.5) inset;
     background-repeat:no-repeat;
     background-size: cover;
     background-position: center;

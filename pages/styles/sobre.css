@@ -25,7 +25,7 @@ header {
     border-radius: 100%;
     margin-left: 50px;
     background-position: center;
-    background-size: contain;
+    background-size: contain; 
     background-repeat: no-repeat;
     border-radius: 50%;
     background-image: url(/assets/logoT.jpeg);
@@ -64,7 +64,8 @@ li {
     justify-content: center;
 }
 .content {
-    background-image:url(/.//assets/Rectangle20.svg);
+    background-color: rgba(255, 223, 136, 0.5);
+    box-shadow: 3px 10px 50px 35px rgba(0, 0, 0, 0.5) inset;
     background-position: center;
     background-position-x: center;
     background-size: cover;
