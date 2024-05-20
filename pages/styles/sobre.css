@@ -28,7 +28,7 @@ header {
     background-size: contain; 
     background-repeat: no-repeat;
     border-radius: 50%;
-    background-image: url(/assets/logoT.jpeg);
+    background-image: url(/./assets/logoT.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
